@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "lefthook": "lefthook"
+  },
   "devDependencies": {
     "lefthook": "^1.4.11"
   }
