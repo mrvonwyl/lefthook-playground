@@ -36,5 +36,5 @@
 
 prepare-commit-msg:
   scripts:
-    "./tools/prepare-commit-msg.sh":
+    "prefix-with-branch-name.sh":
       runner: bash
