@@ -36,5 +36,7 @@
 
 prepare-commit-msg:
   scripts:
-    "prefix-with-branch-name.sh":
+    "bash.sh":
       runner: bash
+    "node.js":
+      runner: node
