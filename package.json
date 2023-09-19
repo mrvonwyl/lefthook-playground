@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "lefthook": "lefthook"
+    "lefthook": "lefthook",
+    "postinstall": "lefthook install -a"
   },
   "devDependencies": {
     "lefthook": "^1.4.11"
